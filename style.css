@@ -1,0 +1,11 @@
+.h {
+    text-align: center;
+    color: blueviolet;
+}
+.a {
+    margin: 600px;
+    color: blueviolet;
+}
+body {
+    background-image: url(img/bg.jpg);
+}
